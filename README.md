@@ -11,7 +11,7 @@ This repository contains several notebooks to process and produce the figures fr
 
   
 ## Data availability and supplementary software:
-The Argo data used in this study is available by the International Argo Program and the national programs contributing to it for the domain 40–80 °E, -5–30 °N and between 2000-2023 (Argo, 2023). The MOM4p1-TOPAZ potential temperature, salinity, and oxygen data used in this study for the of the upper 250m and domain 35-80 °E, 0-30 °N,  are available from Zenodo (Font & Vinaychandran, 2025). Bathymetry data is available by GEBCOCompilation Group (GEBCO, 2023).
+The Argo data used in this study is available by the International Argo Program and the national programs contributing to it for the domain 40–80 °E, -5–30 °N and between 2000-2023 (Argo, 2023). The MOM4p1-TOPAZ potential temperature, salinity, and oxygen data used in this study for the upper 250m and domain 35-80 °E, 0-30 °N, are available from Zenodo (Font & Vinaychandran, 2025). Bathymetry data is available by GEBCOCompilation Group (GEBCO, 2023).
 
  
 ## References of data and other software:
